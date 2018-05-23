@@ -1,0 +1,9 @@
+c:\users\gsus\documents\visual studio 2012\Projects\tarea\tarea\bin\Debug\tarea.exe.config
+c:\users\gsus\documents\visual studio 2012\Projects\tarea\tarea\bin\Debug\tarea.exe
+c:\users\gsus\documents\visual studio 2012\Projects\tarea\tarea\bin\Debug\tarea.pdb
+c:\users\gsus\documents\visual studio 2012\Projects\tarea\tarea\obj\Debug\tarea.csprojResolveAssemblyReference.cache
+c:\users\gsus\documents\visual studio 2012\Projects\tarea\tarea\obj\Debug\tarea.Form1.resources
+c:\users\gsus\documents\visual studio 2012\Projects\tarea\tarea\obj\Debug\tarea.Properties.Resources.resources
+c:\users\gsus\documents\visual studio 2012\Projects\tarea\tarea\obj\Debug\tarea.csproj.GenerateResource.Cache
+c:\users\gsus\documents\visual studio 2012\Projects\tarea\tarea\obj\Debug\tarea.exe
+c:\users\gsus\documents\visual studio 2012\Projects\tarea\tarea\obj\Debug\tarea.pdb
